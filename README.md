@@ -11,47 +11,7 @@
   
 
   <!-- Custom Styles -->
-  <style>*{
-  padding: 0;
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-  background-color: black;
-  }
-.logo{
-  margin: 0;
-  padding: 15px;
-  border-radius: 7px;
-  display: flex;
-  gap: 16px;
-  background-color: black;
-  color: white;
-  font-size: 13px;
-  box-shadow: 2px 0 15px white; 
-}
-.abt{
-  margin: 29px;
-  padding: 17px;
-  font-size: 20px;
-  z-index: 1;
-  color: white;
-  box-shadow: 0 -5px 4px white; 
-  border-radius: 15px;
-}
-.abt span{
-  padding: 1px;
-  margin: 11px;
-  color: rgba(255,255,255,0.15);   /* halka fill */
-  -webkit-text-stroke: 1px white;  /* patla stroke */
-  font-weight: 700;
-}
-.ftr{
-  margin: 20px;
-  padding: 15px;
-  color: white;
-  font-size: 15px;
-  text-align: center;
-}
-</style>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
